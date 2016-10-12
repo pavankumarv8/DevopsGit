@@ -1,0 +1,5 @@
+Linux
+Selenium testing
+live projects
+Hadoop
+
