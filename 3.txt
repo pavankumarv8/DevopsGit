@@ -1,0 +1,13 @@
+package abcpack;
+public class Junitdemo
+{
+@Before
+public void setup()
+{
+sysout("@before");
+}
+@after
+public void teardown()
+{
+sysout("@after");
+}
